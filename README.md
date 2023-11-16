@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Cloud Migration Project for a HealthCare Client**
 
-- 🌱 I’m currently learning **Kubernetes, GCP & ML**
+- 🌱 I’m currently learning **Devops & ML**
 
-- 💬 Ask me about **Informatica, SQL, UNIX and Cloud Platforms**
+- 💬 Ask me about **Informatica, SQL, UNIX and Cloud Platforms like AWS & AZURE**
 
 - 📫 How to reach me **syedxanshah@gmail.com**
 
