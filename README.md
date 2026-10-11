@@ -1,68 +1,79 @@
 <!--
-  GitHub Profile README for: https://github.com/xikander7
-  To display this on your profile, place it in a public repository named exactly: xikander7
+  Profile README for https://github.com/xikander7
+  It shows on the profile when it sits in the public repo named exactly: xikander7
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,45:0F172A,100:0369A1&amp;height=220&amp;section=header&amp;text=Syed%Shah&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20AI%20Data%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20MDM%20%E2%80%A2%20GenAI&amp;descAlignY=58&amp;descSize=18" alt="Syed Shah profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,45:0F172A,100:0369A1&amp;height=230&amp;section=header&amp;text=Syed%20Shah&amp;fontSize=52&amp;fontColor=F8FAFC&amp;animation=twinkling&amp;fontAlignY=36&amp;desc=Senior%20AI%20Data%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20MDM%20%C2%B7%20GenAI&amp;descAlignY=58&amp;descSize=18" alt="Syed Shah" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/xikander-shah">
-    <img src="https://img.shields.io/badge/LinkedIn-Xikander%20Shah-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:syedxanshah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-syedxanshah%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/xikander-shah"><img src="https://img.shields.io/badge/LinkedIn-Xikander%20Shah-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:syedxanshah@gmail.com"><img src="https://img.shields.io/badge/Email-syedxanshah%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=xikander7&amp;label=visitors%20who%20scrolled%20this%20far&amp;color=0369A1&amp;style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Senior+AI+Data+Engineer+%7C+Cloud+%7C+MDM+%7C+GenAI;Turning+complex+data+into+trusted+products;Building+pipelines+that+scale+%E2%80%94+and+fail+loudly;Teaching+AI+agents+to+respect+lineage%2C+quality+and+security" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Hi%2C+I'm+Syed+%F0%9F%91%8B;13%2B+years+of+making+data+behave;I+turn+messy+sources+into+data+people+trust;My+pipelines+scale%2C+and+they+fail+loudly;Currently+teaching+AI+agents+about+lineage+and+PHI" alt="Typing intro" />
   </a>
+</p>
+
+<img align="right" alt="Developer working with data" width="380" src="https://i.imgur.com/mVIr207.gif" />
+
+## 👋 About me
+
+I'm a senior AI data engineer, and I've been at it for 13+ years. Most of that time went into data integration, warehousing, MDM, governance and analytics for healthcare, automotive, retail and insurance companies.
+
+I started out on classic ETL and big enterprise warehouses. These days I build cloud data platforms, lakehouses and golden records, and I use AI to take the tedious parts of engineering off my plate.
+
+- 🔭 Moving healthcare data and MDM workloads onto GCP right now
+- 🧱 Building BigQuery bronze, silver and gold layers that end in golden records
+- ⚙️ Writing pipelines in Python, PySpark, SQL, Airflow, Dataflow and Dataproc
+- 🧠 Playing with RAG, LangGraph, vector search and multi-agent setups
+- 🛡️ Keeping it all honest with quality checks, lineage, reconciliation, PHI/PII protection and GenAI guardrails
+- ☁️ At home on GCP, Azure and AWS, because one cloud was apparently too peaceful
+- ⚡ I've written code on four continents. Latency deserves to be multicultural too.
+
+Ask me about Informatica, MDM, SQL, cloud migrations, lakehouse design, or how to use GenAI on enterprise data without upsetting the compliance team.
+
+<br clear="right" />
+
+---
+
+## 🎧 The set so far
+
+My career plays a bit like a DJ set: it started slow and steady, then the tempo kept going up.
+
+| Track | What was playing |
+|:---:|---|
+| `01` | Classic ETL and enterprise data warehouses |
+| `02` | Master data management: match/merge, survivorship, golden records |
+| `03` | Cloud data platforms and lakehouse architecture |
+| `04` | AI-assisted engineering, RAG and agents |
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=16&amp;duration=2600&amp;pause=1200&amp;color=F59E0B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%E2%96%B6+Now+playing%3A+Track+04+(extended+mix);%E2%96%B6+Up+next%3A+whatever+the+data+throws+at+me" alt="Now playing" />
 </p>
 
 ---
 
-<img align="right" alt="Animated developer working with data" width="390" src="https://i.imgur.com/mVIr207.gif" />
+## 🧭 What I build
 
-## 👨‍💻 About Me
-
-I am a **Senior AI Data Engineer** with **13+ years of experience** designing data integration, cloud, warehousing, MDM, governance and analytics solutions across **healthcare, automotive, retail and insurance**.
-
-My career began with classic ETL and enterprise data warehouses. It has since evolved into building **cloud-native data platforms**, trusted **golden records**, scalable **lakehouse architectures**, and **AI-assisted engineering workflows**.
-
-- 🔭 Currently modernizing healthcare data and MDM workloads on **GCP**
-- 🧱 Building **BigQuery bronze, silver and gold layers** with trusted golden-record outputs
-- ⚙️ Engineering pipelines with **Python, PySpark, SQL, Airflow, Dataflow and Dataproc**
-- 🧠 Exploring **RAG, LangGraph, vector search, AI agents and multi-agent orchestration**
-- 🛡️ Applying **data quality, lineage, reconciliation, PHI/PII protection and GenAI guardrails**
-- ☁️ Comfortable across **GCP, Azure and AWS** — because one cloud was apparently too peaceful
-- 💬 Ask me about **Data Engineering, Informatica, MDM, SQL, Cloud Migration, Lakehouse Architecture or GenAI for enterprise data**
-- ⚡ Fun fact: **I have written code on four continents — because apparently latency should also be multicultural**
-
-<br clear="right" />
-
-> **I started by moving data between systems. Now I design systems that understand, govern and explain the data they move.**
-
----
-
-## 🧭 What I Build
-
-| Area | What it means in practice |
+| Area | In practice |
 |---|---|
-| **Cloud Data Platforms** | Scalable batch and streaming pipelines, lakehouse patterns, dimensional models and cost-aware warehouses |
-| **Master Data Management** | Match/merge, survivorship, trust rules, deduplication, golden records and downstream publishing |
-| **Data Quality & Governance** | Profiling, validation, lineage, metadata, reconciliation, auditability and secure data handling |
-| **AI-Assisted Engineering** | RAG over technical knowledge, semantic search, code-generation workflows and specialized review agents |
-| **Enterprise Integration** | APIs, event streams, cloud/on-prem connectivity and integration across legacy and modern platforms |
+| Cloud data platforms | Batch and streaming pipelines, lakehouses, dimensional models, warehouses that don't torch the budget |
+| Master data management | Match/merge, survivorship and trust rules, dedup, golden records, publishing downstream |
+| Data quality and governance | Profiling, validation, lineage, metadata, reconciliation, audit trails, safe handling of sensitive data |
+| AI-assisted engineering | RAG over technical docs, semantic search, code generation, review agents with narrow jobs |
+| Enterprise integration | APIs, event streams, cloud to on-prem links, old systems talking to new ones |
 
 ---
 
-## 🎛️ Data Engineering Command Center
+## 🎛️ Data engineering command center
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2800&amp;pause=700&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Ingesting+chaos...;Applying+quality+rules...;Resolving+duplicate+realities...;Publishing+trusted+data...;Keeping+the+AI+agents+under+adult+supervision..." alt="Animated data engineering command center" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=18&amp;duration=2600&amp;pause=700&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%3E+ingesting+chaos...;%3E+applying+quality+rules...;%3E+resolving+duplicate+realities...;%3E+publishing+trusted+data...;%3E+supervising+the+AI+agents+like+an+adult..." alt="Command center log" />
 </p>
 
 ```mermaid
@@ -84,22 +95,22 @@ flowchart LR
 ```
 
 <details>
-<summary><b>🟢 Open live system status</b></summary>
+<summary><b>🟢 Click for live system status</b></summary>
 <br />
 
-| Component | Status | Engineer's Translation |
+| Component | Status | What that actually means |
 |---|---|---|
-| Pipelines | 🟢 Operational | The scheduler and I are currently on speaking terms |
-| Data Quality | 🟡 Suspicious by design | Trust is earned, especially by CSV files |
-| Golden Records | 🟢 Surviving | Duplicates have entered conflict resolution |
+| Pipelines | 🟢 Operational | The scheduler and I are on speaking terms this week |
+| Data quality | 🟡 Suspicious by design | Trust is earned, especially by CSV files |
+| Golden records | 🟢 Surviving | The duplicates are in couples counselling |
 | Metadata | 🟢 Watching | Nothing escapes lineage forever |
-| AI Agents | 🟡 Supervised | Helpful, fast and absolutely not root users |
-| Production | 🔵 Calm | Please do not say “quick change” near it |
+| AI agents | 🟡 Supervised | Helpful, fast, and nowhere near root access |
+| Production | 🔵 Calm | Please don't say "quick change" anywhere near it |
 
 </details>
 
 <details>
-<summary><b>🧩 Run the mental pipeline</b></summary>
+<summary><b>🧩 Click to run the mental pipeline</b></summary>
 <br />
 
 ```python
@@ -111,18 +122,23 @@ def build_trusted_data(raw_data):
     return publish_with_lineage(golden_records)
 ```
 
-**Expected output:** useful data, explainable decisions and fewer mysterious spreadsheets.
+```text
+>>> build_trusted_data(load("final_final_v7_REAL_FIXED.csv"))
+WARNING: filename failed vibe check
+INFO: 4,812 duplicates found, 4,811 resolved, 1 still arguing
+INFO: published with lineage. go home.
+```
 
 </details>
 
-> **My favorite architecture pattern:** simple enough to explain, strong enough to scale, and observable enough to confess when it is wrong.
+My favourite architecture is one I can explain on a whiteboard, that scales without drama, and that tells me when it's wrong.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech stack
 
 <details open>
-<summary><b>☁️ Cloud, Lakehouse & Data Platforms</b></summary>
+<summary><b>☁️ Cloud, lakehouse and data platforms</b></summary>
 <br />
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -144,7 +160,7 @@ def build_trusted_data(raw_data):
 </details>
 
 <details open>
-<summary><b>⚙️ Data Engineering, Programming & Orchestration</b></summary>
+<summary><b>⚙️ Engineering, programming and orchestration</b></summary>
 <br />
 
 <p>
@@ -163,7 +179,7 @@ def build_trusted_data(raw_data):
 </details>
 
 <details>
-<summary><b>🧬 Integration, MDM, Quality & Governance</b></summary>
+<summary><b>🧬 Integration, MDM, quality and governance</b></summary>
 <br />
 
 ![Informatica IDMC](https://img.shields.io/badge/Informatica%20IDMC-FF4D00?style=flat-square)
@@ -184,7 +200,7 @@ def build_trusted_data(raw_data):
 </details>
 
 <details open>
-<summary><b>🤖 GenAI, RAG & Agentic Data Engineering</b></summary>
+<summary><b>🤖 GenAI, RAG and agents</b></summary>
 <br />
 
 ![RAG](https://img.shields.io/badge/Retrieval--Augmented%20Generation-7C3AED?style=flat-square)
@@ -206,7 +222,7 @@ def build_trusted_data(raw_data):
 </details>
 
 <details>
-<summary><b>🗄️ Databases, Warehouses & Analytics</b></summary>
+<summary><b>🗄️ Databases, warehouses and analytics</b></summary>
 <br />
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -223,70 +239,67 @@ def build_trusted_data(raw_data):
 
 ---
 
-## 🧠 Engineering Principles
+## 🧠 House rules
 
 ```bash
 $ cat engineering_philosophy.txt
 
 Automate the repeatable.
-Measure data quality instead of merely discussing it.
-Treat lineage, observability and security as product features.
-Design for the engineer who will be debugging this at 2:00 AM.
+Measure data quality instead of holding meetings about it.
+Lineage, observability and security are features. Ship them.
+Design for whoever is debugging this at 2:00 AM. It might be you.
 Never trust a file named final_final_v7_REAL_FIXED.csv.
 ```
 
-> **A good data platform is boring in production, interesting in design and loudly honest when it fails.**
+A good data platform is boring in production. When it breaks, it should say so loudly.
 
 ---
 
-## 🌍 Beyond the Pipeline
+## 🌍 When I'm not on call
 
-When I am not designing data platforms, I am usually exploring:
+- 🎧 Producing music and DJing, mostly so I can obsess over a properly timed drop
+- ✈️ Travelling and finding places before they turn into "hidden gems" on every reel
+- 🧪 Trying new AI tools and automating things that probably didn't need automating
+- 🎮 Games, coding experiments, and side projects that started as "just a quick look"
 
-- 🎧 Music production, DJing and the architecture of a properly timed drop
-- ✈️ Travel, nature and finding new places before they become “hidden gems” on every reel
-- 🧪 Emerging technology, AI tools and practical automation
-- 🎮 Games, coding experiments and side-project rabbit holes
-
-There is a surprising amount of overlap between data engineering and DJing:  
-**timing matters, transitions matter, and nobody enjoys an unexpected crash.**
+DJing and data engineering overlap more than you'd expect. Timing matters, transitions matter, and nobody enjoys an unexpected crash.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub stats
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=xikander7&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true" alt="Syed's GitHub statistics" />
-  <img height="175" src="https://streak-stats.demolab.com?user=xikander7&amp;theme=transparent&amp;hide_border=true" alt="Syed's GitHub contribution streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xikander7&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;hide_rank=true&amp;include_all_commits=true&amp;title_color=38BDF8&amp;icon_color=22D3EE" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=xikander7&amp;theme=transparent&amp;hide_border=true&amp;ring=38BDF8&amp;fire=F59E0B&amp;currStreakLabel=38BDF8" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=xikander7&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=8" alt="Most-used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=xikander7&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=8&amp;title_color=38BDF8" alt="Most-used languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=xikander7&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xikander7/xikander7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xikander7/xikander7/output/github-snake.svg" />
+    <img alt="A snake eating my contribution graph, one commit at a time" src="https://raw.githubusercontent.com/xikander7/xikander7/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Say hi
 
-I enjoy exchanging ideas about **modern data platforms, MDM, cloud migration, data governance and practical enterprise GenAI**.
+I like talking about modern data platforms, MDM, cloud migration, data governance, and GenAI that works in a real enterprise. If any of that is on your mind, send me a message.
 
 <p align="center">
-  <a href="https://linkedin.com/in/xikander-shah">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:syedxanshah@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" />
-  </a>
+  <a href="https://linkedin.com/in/xikander-shah"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:syedxanshah@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" /></a>
 </p>
 
 <p align="center">
-  <i>Building trusted data products — one pipeline, golden record and carefully supervised AI agent at a time.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=15&amp;duration=3000&amp;pause=1500&amp;color=94A3B8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=one+pipeline+at+a+time.;one+golden+record+at+a+time.;one+supervised+AI+agent+at+a+time." alt="Sign-off" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0369A1,50:0F172A,100:020617&amp;height=120&amp;section=footer" alt="Profile footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0369A1,50:0F172A,100:020617&amp;height=120&amp;section=footer" alt="Footer" />
 </p>
