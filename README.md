@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,45:0F172A,100:0369A1&amp;height=220&amp;section=header&amp;text=Syed %Shah&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20AI%20Data%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20MDM%20%E2%80%A2%20GenAI&amp;descAlignY=58&amp;descSize=18" alt="Syed Shah profile header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020617,45:0F172A,100:0369A1&amp;height=220&amp;section=header&amp;text=Syed%Shah&amp;fontSize=44&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20AI%20Data%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20MDM%20%E2%80%A2%20GenAI&amp;descAlignY=58&amp;descSize=18" alt="Syed Shah profile header" />
 </p>
 
 <p align="center">
